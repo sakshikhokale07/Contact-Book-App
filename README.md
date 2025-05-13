@@ -16,6 +16,18 @@ A simple, menu-driven Python program to manage a contact book. This command-line
 
 ---
 
+▶️ How to Run
+Make sure Python 3 is installed on your system.
+
+Save the script as contact_book.py.
+
+Open a terminal and run:
+
+```bash
+python contact_book.py
+
+---
+
 ## 🧱 Data Structure
 
 Contacts are stored in a Python dictionary:
