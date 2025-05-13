@@ -24,36 +24,3 @@ Contacts are stored in a Python dictionary:
 contacts = {
     'Alice': {'age': 30, 'email': 'alice@example.com', 'mobile': '1234567890'}
 }
-Each contact's name is a key.
-
-The value is another dictionary with:
-
-'age' (int)
-
-'email' (str)
-
-'mobile' (str)
-
-💻 How to Run
-Make sure you have Python installed (version 3.x).
-
-Save the script as contact_book.py.
-
-Run it using your terminal or command prompt:
-
-bash
-Copy
-Edit
-python contact_book.py
-🧪 Sample Menu
-markdown
-Copy
-Edit
-Contact Book App
-1. Create contact
-2. View contact
-3. Update contact
-4. Delete contact
-5. Search contact
-6. Count contact
-7. Exit
