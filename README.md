@@ -25,14 +25,3 @@ Open a terminal and run:
 
 ```bash
 python contact_book.py
-
----
-
-## 🧱 Data Structure
-
-Contacts are stored in a Python dictionary:
-
-```python
-contacts = {
-    'Alice': {'age': 30, 'email': 'alice@example.com', 'mobile': '1234567890'}
-}
